@@ -15,7 +15,7 @@ const Footer = () => {
                     <a href="https://www.educative.io/"><i><FaFacebook />
                     </i>
                     </a>
-                    <a href="https://www.instagram.com/j.i.m.m.y_la/"><i><FaInstagram />
+                    <a href="https://www.instagram.com/jimmy_kimotho/"><i><FaInstagram />
                     </i></a>
                     <a href="https://www.educative.io/"><i><FaTwitter />
                     </i></a>
